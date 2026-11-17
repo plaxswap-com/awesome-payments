@@ -42,6 +42,7 @@
 - [Checkout.com](https://www.checkout.com/) – Cloud-native global payment processing platform.
 - [Braintree](https://www.braintreepayments.com/) – Payment gateway for web and mobile applications.
 - [Worldpay](https://www.worldpay.com/) – Global payment processing and acquiring services.
+- [Plaxswap](https://plaxswap.com/merchants) – Crypto payment gateway for accepting Bitcoin, USDT and other coins with payment links, an API and plugins.
 
 ## Cards & Card Networks
 
